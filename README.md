@@ -23,7 +23,7 @@ Built using PHP, JavaScript, MySQL, and more.
 
 ## 🌐 Connect with Me
 
-- 📫 Email: [your-email@example.com]
+- 📫 Email: [vinzelmarano@gmail.com]
 - 💼 LinkedIn: [your-linkedin-url]
 - 🌍 Portfolio: [your-website-url]
 
