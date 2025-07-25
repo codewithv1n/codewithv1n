@@ -33,7 +33,7 @@ Built using PHP, JavaScript, MySQL, and more.
 
 - I love solving real-world problems with code.
 - Always open to collaboration and learning new things.
-- Coffee fuels my coding sessions ☕
+- Milk fuels my coding sessions ☕
 
 ---
 
