@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vin, the Programmer!
+# Hi there 👋 I'm vin.xyz, the Programmer!
 
 Welcome to my GitHub! I'm a **Student** and passionate **Web Developer** on a mission to turn ideas into impactful digital experiences.
 
