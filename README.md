@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a **Student** and passionate **Web Developer** on a mi
 - 🌱 Currently learning, building, and exploring the world of web development.
 - 👨‍💻 Skilled in:  
   **HTML | CSS | JavaScript | PHP | React | MySQL | Xampp**
-- 🛠️ Always experimenting with new tech, frameworks, and creative coding.
+- 🛠️ Always experimenting with new tech, frameworks, AI, and creative coding.
 
 ---
 
