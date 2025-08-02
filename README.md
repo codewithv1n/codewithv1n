@@ -1,53 +1,57 @@
-<h1 align="center"> 👨‍💼💾 Vinzel James Maraño | WAMP Stack | Web-Developer</h1>
----
-
+<h1 align="center">Hi , Im 👨‍💻 Vin! </h1>
 <div align="center">
-  I'm a **Student** and passionate **Web Developer** on a mission to turn ideas into impactful digital experiences.
+  <i>
+    I'm a 3rd year BSIT Student Major in Information Management<br>
+    I build some projects/systems that I think will help people in the future<br>
+    Currently learning, building, and exploring the world of web development<br>
+    Always experimenting with new tech, frameworks, AI, and creative coding.
+  </i>
 </div>
 
----
 
+ <h2 align="center">🌐 Socials</h2>                           
 <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=vintheprogrammer&show_icons=true&theme=radical)"
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vintheprogrammer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@vinzzthegreat)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@codewithvin__)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@codewithvin)
+  [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@jstvinxyz_)
+  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinzelmarano@gmail.com)
+
 </div>
 
----
 
-<h1 align="center">🚀 About Me</h1>
+<h2 align="center">💻 Tech Stack</h2>                      
 <div align="center">
-- 🌱 Currently learning, building, and exploring the world of web development.
-- 👨‍💻 Skilled in:  
-  **HTML | CSS | JavaScript | PHP | React | MySQL | Xampp**
-- 🛠️ Always experimenting with new tech, frameworks, AI, and creative coding.
-</div>
----
 
-<h1 align="center">📌 Featured Project</h1>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 
-<div align="center">
-### [find-it](https://github.com/vintheprogrammer/find-it)
-A powerful web application designed to manage Lost and Found items efficiently.  
-Built using PHP, JavaScript, MySQL, and more.
 </div>
 
----
-
-<h1 align="center">🌐 Connect with Me</h1>
-
+<h2 align="center">📊 GitHub Stats</h2>                                 
 <div align="center">
- [![Facebook Link](https://img.shields.io/badge/-Facebook-1876F3?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/vinzzthegreat)
- [![Linkedin Link](https://img.shields.io/badge/-Linkedin-1467C3?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinzel-james-mara%C3%B1o-2716a6369/)  
- [![Instagram Link](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/codewithvin__/#)
-</div>
----
 
-<h1 align="center"> ⚡ Fun Facts</h1>   
+  <img src="https://github-readme-stats.vercel.app/api?username=vintheprogrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vintheprogrammer&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vintheprogrammer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
-<div align="center">
-- I love solving real-world problems with code.
-- Always open to collaboration and learning new things.
-- Milk fuels my coding sessions ☕
 </div>
 
----
+<h2 align="center">✍️ Random Dev Quote</h2>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox">
+</div>
+
+<h2 align="center">🔝 Top Contributed Repo   </h2>
+<div align="center">
+ <img src="https://github-contributor-stats.vercel.app/api?username=vintheprogrammer&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</div>
