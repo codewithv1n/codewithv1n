@@ -39,6 +39,6 @@ Built using PHP, JavaScript, MySQL, and more.
 
 ![Vin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vintheprogrammer&show_icons=true&theme=radical)
 
----
 
-Thanks for stopping by! Let's build something great together 🚀
+
+
