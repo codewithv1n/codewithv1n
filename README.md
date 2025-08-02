@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a **Student** and passionate **Web Developer** on a mi
 
 ## 📌 Featured Project
 
-### [LAFsystem](https://github.com/vintheprogrammer/LAFsystem)
+### [find-it](https://github.com/vintheprogrammer/find-it)
 A powerful web application designed to manage Lost and Found items efficiently.  
 Built using PHP, JavaScript, MySQL, and more.
 
@@ -24,7 +24,7 @@ Built using PHP, JavaScript, MySQL, and more.
 ## 🌐 Connect with Me
 
 - 📫 Email: [vinzelmarano@gmail.com]
-- 💼 LinkedIn: [your-linkedin-url]
+- ⓕ Facebook: [https://www.facebook.com/vinzzthegreat]
 - 🌍 Portfolio: [your-website-url]
 
 ---
