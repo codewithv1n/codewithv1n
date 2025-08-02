@@ -26,6 +26,7 @@ Built using PHP, JavaScript, MySQL, and more.
 - 📫 Email: [vinzelmarano@gmail.com]
 - ⓕ Facebook: [https://www.facebook.com/vinzzthegreat]
 - 🌍 Portfolio: [your-website-url]
+- [![Linkedin Link](https://img.shields.io/badge/-Linkedin-1467C3?style=for-the-badge&logo=Linkedin&logoColor=white)][(https://www.linkedin.com/in/vinzel-james-mara%C3%B1o-2716a6369/)]  
 
 ---
 
