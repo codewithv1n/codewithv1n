@@ -40,9 +40,9 @@
 <h2 align="center">📊 GitHub Stats</h2>                                 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithv1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=codewithv1n&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithv1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codewithv1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false%cache_seconds=1800" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=codewithv1n&theme=dark&hide_border=false%cache_seconds="1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithv1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800" />
 
 </div>
 
