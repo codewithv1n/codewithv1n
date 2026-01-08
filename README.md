@@ -53,7 +53,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox">
 </div>
 
-<h2 align="center">🔝 Top Contributed Repo   </h2>
-<div align="center">
- <img src="https://github-contributor-stats.vercel.app/api?username=codewithv1n&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
+
+
