@@ -36,22 +36,9 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   
-
-</div>
-
-<h2 align="center">📊 GitHub Stats</h2>                                 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=codewithv1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false%cache_seconds=1800" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=codewithv1n&theme=dark&hide_border=false%cache_seconds="1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithv1n&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&cache_seconds=1800" />
-
 </div>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox">
 </div>
-
-
-
