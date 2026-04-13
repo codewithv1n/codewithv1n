@@ -1,7 +1,7 @@
 <h1 align="center">Hi , Im 👨‍💼 Vin! </h1>
 <div align="center">
   <i>
-    I'm a 3rd year BSIT Student Major in Information Management<br>
+    I'm a 4th year BSIT Student Major in Information Management<br>
     I build some projects/systems that I think will help people in the future<br>
     Currently learning, building, and exploring the world of web development<br>
     Always experimenting with new tech, frameworks, AI, and creative coding.
